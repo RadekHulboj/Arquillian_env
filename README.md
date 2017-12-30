@@ -18,7 +18,7 @@ To avoid introducing unnecessary complexity into the developer&#39;s build envir
 # some practice
 
 
-**git clone https://github.com/RadekHulboj/MBO\_Axxiome.git** 
+**git clone https://github.com/RadekHulboj/MBO_Axxiome.git** 
 
 The project is built with maven build tool: run command **mvn clean package**
 
